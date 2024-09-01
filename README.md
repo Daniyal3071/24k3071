@@ -1,7 +1,7 @@
 # 24k-3071
 
 ## Introduction:
-Wassup wassup fambruh. My name is Daniyal Naveed. I completed my O-Levels from Happy Home O level School. ![hhs](https://hhs.edu.pk/wp-content/uploads/2022/04/OLG.jpg)
+My name is Daniyal Naveed. I completed my O-Levels from Happy Home O level School. ![hhs](https://hhs.edu.pk/wp-content/uploads/2022/04/OLG.jpg)
 
 I gave exams of 10 subjects which were:
 1. Islamiat
