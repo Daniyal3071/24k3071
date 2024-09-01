@@ -21,3 +21,5 @@ I gave 3 subjects which were:
 - Maths
 - Physics
 - Computer Science
+
+I am currently doing my Bachelor’s degree in Software Engineering from FAST university. ![fast](https://assets.change.org/photos/2/vo/vq/SYVovqxHCXaZwYq-1600x900-noPad.jpg?1535746159)
