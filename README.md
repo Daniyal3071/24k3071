@@ -21,3 +21,5 @@ I gave 3 subjects which were:
 - Maths
 - Physics
 - Computer Science
+
+# PF LAB 3: INTRDUCTION TO C LANGUAGE
